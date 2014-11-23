@@ -3,7 +3,7 @@ NAME
     section for Getopt::Long::Complete-based scripts
 
 VERSION
-    This document describes version 0.02 of
+    This document describes version 0.03 of
     Pod::Weaver::Section::Completion::GetoptLongComplete (from Perl
     distribution Pod-Weaver-Section-Completion-GetoptLongComplete), released
     on 2014-11-23.
